@@ -1,0 +1,25 @@
+{
+  "name": "data-type-lab",
+  "version": "1.0.0",
+  "description": "Check Data types of argument",
+  "main": "app/compare.js",
+  "directories": {
+    "test": "tests"
+  },
+  "scripts": {
+    "test": "mocha tests/tests.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ecj4real/Data-Types-Lab.git"
+  },
+  "author": "Emegbue Chukwudi John",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/ecj4real/Data-Types-Lab/issues"
+  },
+  "homepage": "https://github.com/ecj4real/Data-Types-Lab#readme",
+  "dependencies": {
+    "jasmine": "^2.5.2"
+  }
+}
